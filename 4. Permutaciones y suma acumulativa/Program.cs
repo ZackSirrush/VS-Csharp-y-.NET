@@ -1,12 +1,3 @@
-﻿//Universidad Abierta y a Distancia de México
-//Programación NET I
-//Unidad 2. Métodos
-//Actividad 2. Programa que utiliza métodos que no devuelven parámetros
-//Angel Isaac Nabor Torres
-//ES1921013978
-//Grupo. DS-DPRN1-2102-B1-002
-//Docente. Jacobo Diaz Martínez
-
 using System;
 
 namespace DPRN_U2_A2_ANNT
