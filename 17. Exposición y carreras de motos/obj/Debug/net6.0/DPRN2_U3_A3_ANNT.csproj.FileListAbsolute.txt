@@ -1,0 +1,43 @@
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.exe
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.deps.json
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.runtimeconfig.json
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\refint\DPRN2_U3_A3_ANNT.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.genruntimeconfig.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\ref\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\refint\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A3_ANNT\DPRN2_U3_A3_ANNT\obj\Debug\net6.0\ref\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\17\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET II\17\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET II\17\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET II\17\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\17\bin\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\refint\DPRN2_U3_A3_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\DPRN2_U3_A3_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\17\obj\Debug\net6.0\ref\DPRN2_U3_A3_ANNT.dll
