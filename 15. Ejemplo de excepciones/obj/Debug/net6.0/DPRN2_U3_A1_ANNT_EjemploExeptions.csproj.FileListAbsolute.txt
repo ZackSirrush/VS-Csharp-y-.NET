@@ -1,0 +1,43 @@
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.exe
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.deps.json
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.runtimeconfig.json
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\refint\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.genruntimeconfig.cache
+E:\Programas\Visual Studio\C#\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\ref\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.exe
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\refint\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\DPRN2_U3_A1_ANNT\DPRN2_U3_A1_ANNT_EjemploExeptions\obj\Debug\net6.0\ref\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\15\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.exe
+F:\Programas\Visual Studio\C#\Programación .NET II\15\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET II\15\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET II\15\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\15\bin\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\refint\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\DPRN2_U3_A1_ANNT_EjemploExeptions.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\15\obj\Debug\net6.0\ref\DPRN2_U3_A1_ANNT_EjemploExeptions.dll
