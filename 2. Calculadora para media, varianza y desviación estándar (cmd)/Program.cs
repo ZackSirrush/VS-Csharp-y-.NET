@@ -1,11 +1,3 @@
-﻿//Universidad Abierta y a Distancia de México
-//Desarrollo de software
-//Programación Net I
-//Unidad 1. Introducción a .NET
-//Actividad 3. Resolver problemas con C#
-//Angel Isaac Nabor Torres
-//ES1921013978
-//Docente. Jacobo Diaz Martínez
 using System;
 
 namespace DPRN1_U1_A3_ANNT
