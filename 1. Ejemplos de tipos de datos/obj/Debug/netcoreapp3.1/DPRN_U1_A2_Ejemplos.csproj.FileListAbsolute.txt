@@ -1,0 +1,27 @@
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.exe
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.deps.json
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.runtimeconfig.json
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.runtimeconfig.dev.json
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.dll
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.pdb
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.dll
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.pdb
+E:\Programas\Visual Studio\C#\DPRN_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.exe
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.runtimeconfig.dev.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\bin\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U1_A2_Ejemplos\obj\Debug\netcoreapp3.1\DPRN_U1_A2_Ejemplos.genruntimeconfig.cache
