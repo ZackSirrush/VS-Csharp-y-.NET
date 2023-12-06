@@ -1,0 +1,41 @@
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.exe
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.deps.json
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.json
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.dev.json
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+E:\Programas\Visual Studio\C#\DPRN_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.dev.json
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\DPRN1_U2_A2_ANNT\DPRN_U2_A2_ANNT\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.runtimeconfig.dev.json
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\bin\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET I\4. Permutaciones y suma acumulativa\obj\Debug\netcoreapp3.1\DPRN_U2_A2_ANNT.genruntimeconfig.cache
