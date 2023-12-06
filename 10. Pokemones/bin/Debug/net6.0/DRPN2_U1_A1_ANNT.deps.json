@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DRPN2_U1_A1_ANNT/1.0.0": {
+        "runtime": {
+          "DRPN2_U1_A1_ANNT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DRPN2_U1_A1_ANNT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
