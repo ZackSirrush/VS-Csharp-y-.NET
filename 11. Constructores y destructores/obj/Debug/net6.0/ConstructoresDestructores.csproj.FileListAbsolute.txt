@@ -1,0 +1,29 @@
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\bin\Debug\net6.0\ConstructoresDestructores.exe
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\bin\Debug\net6.0\ConstructoresDestructores.deps.json
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\bin\Debug\net6.0\ConstructoresDestructores.runtimeconfig.json
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\bin\Debug\net6.0\ConstructoresDestructores.dll
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\bin\Debug\net6.0\ConstructoresDestructores.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.dll
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\refint\ConstructoresDestructores.dll
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.pdb
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ConstructoresDestructores.genruntimeconfig.cache
+E:\Programas\Visual Studio\C#\DPRN2_U1_A2_ANNT\ConstructoresDestructores\obj\Debug\net6.0\ref\ConstructoresDestructores.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\11\bin\Debug\net6.0\ConstructoresDestructores.exe
+F:\Programas\Visual Studio\C#\Programación .NET II\11\bin\Debug\net6.0\ConstructoresDestructores.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET II\11\bin\Debug\net6.0\ConstructoresDestructores.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET II\11\bin\Debug\net6.0\ConstructoresDestructores.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\11\bin\Debug\net6.0\ConstructoresDestructores.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\refint\ConstructoresDestructores.dll
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.pdb
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ConstructoresDestructores.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET II\11\obj\Debug\net6.0\ref\ConstructoresDestructores.dll
