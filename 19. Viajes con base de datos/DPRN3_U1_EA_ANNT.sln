@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPRN3_U1_EA_ANNT", "DPRN3_U1_EA_ANNT.csproj", "{2DAA5A0C-B2EC-478D-851E-47CFC209B843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{F69AB0A1-B883-4C98-B4D9-4F5AB5B73EB2}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAA5A0C-B2EC-478D-851E-47CFC209B843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAA5A0C-B2EC-478D-851E-47CFC209B843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAA5A0C-B2EC-478D-851E-47CFC209B843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAA5A0C-B2EC-478D-851E-47CFC209B843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19E7495-6545-46F8-AFB0-643CD79BD533}
+	EndGlobalSection
+EndGlobal
