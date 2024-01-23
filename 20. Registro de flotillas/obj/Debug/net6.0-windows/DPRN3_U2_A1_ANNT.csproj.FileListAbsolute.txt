@@ -1,0 +1,93 @@
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.exe
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.deps.json
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.runtimeconfig.json
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Rvehiculo.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.GenerateResource.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfoInputs.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfo.cs
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CopyComplete
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\refint\DPRN3_U2_A1_ANNT.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.genruntimeconfig.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\ref\DPRN3_U2_A1_ANNT.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Menu.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Properties.Resources.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.RegUsuario.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.RegUsuario.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Rvehiculo.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CopyComplete
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\refint\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\ref\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.RegUsuario.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Rvehiculo.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\refint\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U2_A1_ANNT\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.RegUsuario.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.Rvehiculo.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfoInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.AssemblyInfo.cs
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\refint\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.deps.json
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.runtimeconfig.json
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.csproj.CopyComplete
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\DPRN3_U2_A1_ANNT.genruntimeconfig.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\20. Registro de flotillas\obj\Debug\net6.0-windows\ref\DPRN3_U2_A1_ANNT.dll
