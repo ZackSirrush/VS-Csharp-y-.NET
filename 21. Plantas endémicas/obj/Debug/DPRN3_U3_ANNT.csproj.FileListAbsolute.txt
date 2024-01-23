@@ -1,0 +1,72 @@
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\DPRN3_U3_ANNT.exe.config
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\DPRN3_U3_ANNT.exe
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\DPRN3_U3_ANNT.pdb
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.AssemblyReference.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.SuggestedBindingRedirects.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.Properties.Resources.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.GenerateResource.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.CoreCompileInputs.cache
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.exe
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.pdb
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\Google.Protobuf.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Compression.LZ4.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Hash.xxHash.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\MySql.Data.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Buffers.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Memory.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Numerics.Vectors.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\Ubiety.Dns.Core.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\ZstdNet.dll
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\BouncyCastle.Crypto.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\Google.Protobuf.pdb
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\Google.Protobuf.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Compression.LZ4.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\K4os.Hash.xxHash.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\MySql.Data.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Buffers.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Memory.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Numerics.Vectors.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.CopyComplete
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\DPRN3_U3_ANNT.exe.manifest
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\bin\Debug\DPRN3_U3_ANNT.application
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaMensual.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.exe.manifest
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.application
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.Menu.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaTotal.resources
+E:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.RegVentas.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.RegVentas.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaTotal.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaMensual.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\DPRN3_U3_ANNT\obj\Debug\DPRN3_U3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.RegVentas.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaTotal.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.VtaMensual.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET III\DPRN3_U3_A1_ANNT\obj\Debug\DPRN3_U3_ANNT.pdb
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.csproj.AssemblyReference.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.RegVentas.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.VtaTotal.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.Menu.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.Properties.Resources.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.VtaMensual.resources
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.csproj.GenerateResource.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.csproj.CoreCompileInputs.cache
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.exe
+F:\Programas\Visual Studio\C#\Programación .NET III\21. Base de datos plantas endémicas\obj\Debug\DPRN3_U3_ANNT.pdb
